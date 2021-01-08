@@ -4,7 +4,7 @@ SimpleToDoApp is an android app that allows building a todo list and basic todo 
 
 Submitted by: Tiara McMillan
 
-Time spent: 3.5 hours spent in total
+Time spent: 4.5 hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/tmcmillan1014/SimpleToDoApp/blob/master/Prework.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
 ## Notes
 
